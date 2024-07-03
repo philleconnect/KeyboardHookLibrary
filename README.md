@@ -1,3 +1,5 @@
+__Archived: Not actively maintained anymore!__
+
 # KeyboardHookLibrary
 DLL for keyboard lock. PhilleConnectStart and Systemclient require this to start.
 
